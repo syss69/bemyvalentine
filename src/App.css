@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: lightblue;
 }
 
 .App-header {
@@ -9,6 +10,17 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  background-color: #282c34;
+  background-color: pink;
   color: white;
+}
+
+img {
+  border: 5px solid black;
+  margin: 1rem;
+  width : 500px;
+  height : 500px;
+}
+
+h2{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
